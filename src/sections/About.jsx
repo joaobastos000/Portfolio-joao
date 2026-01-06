@@ -2,7 +2,7 @@ import { useRef } from "react";
 import Card from "../components/Card";
 import { Globe } from "../components/globe";
 import CopyEmailButton, { CopyLinkedInButton, CopyWhatsappButton } from "../components/CopyEmailButton";
-import { Frameworks } from "../components/FrameWorks";
+import Frameworks from "../components/Frameworks";
 import { useTranslation } from 'react-i18next';
 
 const About = () => {
